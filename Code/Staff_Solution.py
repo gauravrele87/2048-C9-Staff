@@ -40,6 +40,7 @@ Abstraction Reference Guide:
         clear           - clears the screen (should be called before each print_board call)
         pause           - a function used by the GUI to allow for a slight delay that is more visually appealing in placing the new piece
 
+
     Board Functions:
         make_board      - creates a new, empty square board of argument N x N dimension
         print_board     - prints out the state of the argument board
